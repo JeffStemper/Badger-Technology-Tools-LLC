@@ -1,5 +1,7 @@
 ## Welcome to Badger Technology Tools LLC
 
+Badger Technology Tools is a custom software development company in business since 2005.
+
 You can use the [editor on GitHub](https://github.com/JeffStemper/Badger-Technology-Tools-LLC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
